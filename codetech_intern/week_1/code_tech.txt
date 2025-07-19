@@ -1,0 +1,2 @@
+Welcome to CODTECH Internship!
+This file is created using Java File Handling.
